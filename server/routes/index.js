@@ -3,7 +3,7 @@ var router = express.Router();
 var mongoose = require("mongoose");
 var path = require("path");
 
-mongoose.connect(" mongodb://casie:kubRA6Ub@ds035683.mongolab.com:35683/mongolab_test");
+mongoose.connect("mongodb://casie:kubRA6Ub@ds035683.mongolab.com:35683/mongolab_test");
 
 var Cat = mongoose.model("cat", {name:String});
 
