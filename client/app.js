@@ -21,6 +21,6 @@ app.controller("IndexController", ['$scope', '$http', function($scope, $http){
         return $http.post('/add', cat).then(fetchCats);
     };
 
-    fetchCats();
+    //fetchCats();
 
 }]);
