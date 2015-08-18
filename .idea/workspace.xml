@@ -45,7 +45,7 @@
         <entry file="file://$USER_HOME$/Desktop/MongoLabs_Test/server/routes/index.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="5" column="0" selection-start-line="5" selection-start-column="2" selection-end-line="24" selection-end-column="5" />
+              <caret line="9" column="54" selection-start-line="9" selection-start-column="54" selection-end-line="9" selection-end-column="54" />
               <folding />
             </state>
           </provider>
@@ -55,7 +55,7 @@
         <entry file="file://$USER_HOME$/Desktop/MongoLabs_Test/client/app.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+              <caret line="23" column="16" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -64,11 +64,9 @@
       <file leaf-file-name="app.js" pinned="false" current-in-tab="true">
         <entry file="file://$USER_HOME$/Desktop/MongoLabs_Test/server/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6795302">
-              <caret line="27" column="33" selection-start-line="27" selection-start-column="33" selection-end-line="27" selection-end-column="33" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -96,11 +94,11 @@
         <option value="$USER_HOME$/Desktop/MongoLabs_Test/package.json" />
         <option value="$USER_HOME$/Desktop/MongoLabs_Test/node_modules/express/node_modules/merge-descriptors/index.js" />
         <option value="$USER_HOME$/Desktop/MongoLabs_Test/server/public/views/index.html" />
-        <option value="$USER_HOME$/Desktop/MongoLabs_Test/client/app.js" />
         <option value="$USER_HOME$/Desktop/MongoLabs_Test/Gruntfile.js" />
         <option value="$USER_HOME$/Desktop/MongoLabs_Test/Procfile" />
-        <option value="$USER_HOME$/Desktop/MongoLabs_Test/server/routes/index.js" />
         <option value="$USER_HOME$/Desktop/MongoLabs_Test/.gitignore" />
+        <option value="$USER_HOME$/Desktop/MongoLabs_Test/server/routes/index.js" />
+        <option value="$USER_HOME$/Desktop/MongoLabs_Test/client/app.js" />
         <option value="$USER_HOME$/Desktop/MongoLabs_Test/server/app.js" />
       </list>
     </option>
@@ -386,14 +384,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Desktop/MongoLabs_Test/client/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/Desktop/MongoLabs_Test/server/public/views/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-12.5">
@@ -426,21 +416,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/Desktop/MongoLabs_Test/client/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="23" column="16" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$USER_HOME$/Desktop/MongoLabs_Test/server/routes/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="5" column="0" selection-start-line="5" selection-start-column="2" selection-end-line="24" selection-end-column="5" />
+          <caret line="9" column="54" selection-start-line="9" selection-start-column="54" selection-end-line="9" selection-end-column="54" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$USER_HOME$/Desktop/MongoLabs_Test/server/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6795302">
-          <caret line="27" column="33" selection-start-line="27" selection-start-column="33" selection-end-line="27" selection-end-column="33" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>

@@ -8,6 +8,7 @@ mongoose.connect("mongodb://casie:kubRA6Ub@ds035683.mongolab.com:35683/mongolab_
 var Cat = mongoose.model("cat", {name:String});
 
 router.post('/add', function(request, response, next){
+    console.log("router.post");
     var kitty = new Cat({name: request.body.name});
     kitty.save(function(err){
         if(err) console.log("meows", err);
