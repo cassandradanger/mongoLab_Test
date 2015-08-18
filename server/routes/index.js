@@ -3,7 +3,7 @@ var router = express.Router();
 var mongoose = require("mongoose");
 var path = require("path");
 
-mongoose.connect("mongodb://localhost/mongolabs_test");
+mongoose.connect(" mongodb://casie:kubRA6Ub@ds035683.mongolab.com:35683/mongolab_test");
 
 var Cat = mongoose.model("cat", {name:String});
 
@@ -30,5 +30,4 @@ router.get("/*", function(req, res, next) {
     res.sendFile(path.join(__dirname, "../public", file));
     //next();
 });
-
 module.exports = router;
